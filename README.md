@@ -69,7 +69,10 @@ book-recommender-dae/
 ├── data/                   # Données
 ├── tests/                  # Tests unitaires
 └── README.md
-🛠️ Stack technologique
+
+---
+
+##🛠️ Stack technologique
 Domaine	Technologies
 Langage	Python
 Deep Learning	PyTorch
@@ -88,7 +91,8 @@ Plusieurs milliers d’utilisateurs
 
 Données réelles et bruitées (cas réel)
 
-🚀 Installation rapide
+--- 
+##🚀 Installation rapide
 bash
 Copier le code
 git clone <repo-url>
@@ -105,8 +109,8 @@ Applications éducatives
 Systèmes de recommandation personnalisés
 
 Proof of Concept IA
-
-📈 Évolutions possibles
+---
+##📈 Évolutions possibles
 🔄 Hybridation avec du content-based filtering
 
 📊 Visualisation des embeddings
@@ -116,8 +120,8 @@ Proof of Concept IA
 🌐 API REST (FastAPI)
 
 ☁️ Déploiement Cloud / Docker
-
-👩‍💻 Profil & Compétences démontrées
+---
+##👩‍💻 Profil & Compétences démontrées
 ✔ Deep Learning
 ✔ Systèmes de recommandation
 ✔ Data preprocessing
@@ -125,6 +129,7 @@ Proof of Concept IA
 ✔ Déploiement d’IA avec UI
 ✔ Intégration d’API externes
 
+---
 👤 Auteur
 Oumaima Toufali
 🎓 Data Science & Cloud Computing Engineer
